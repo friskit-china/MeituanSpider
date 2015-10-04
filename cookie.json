@@ -1,7 +1,7 @@
 [
 {
     "domain": ".waimai.meituan.com",
-    "expirationDate": 1501753635,
+    "expirationDate": 1506143532,
     "hostOnly": false,
     "httpOnly": false,
     "name": "__mta",
@@ -9,12 +9,12 @@
     "secure": false,
     "session": false,
     "storeId": "0",
-    "value": "213669803.1439545623758.1439545623758.1439545635664.2",
+    "value": "253082166.1443589229840.1443589335538.1443935532747.4",
     "id": 1
 },
 {
     "domain": ".waimai.meituan.com",
-    "expirationDate": 1502617635,
+    "expirationDate": 1507007528,
     "hostOnly": false,
     "httpOnly": false,
     "name": "_ga",
@@ -22,12 +22,12 @@
     "secure": false,
     "session": false,
     "storeId": "0",
-    "value": "GA1.3.375601307.1439545623",
+    "value": "GA1.3.1848093185.1443589228",
     "id": 2
 },
 {
     "domain": ".waimai.meituan.com",
-    "expirationDate": 1439546223,
+    "expirationDate": 1443936128,
     "hostOnly": false,
     "httpOnly": false,
     "name": "_gat",
@@ -47,12 +47,12 @@
     "secure": false,
     "session": true,
     "storeId": "0",
-    "value": "zudgouy97ex9sbz3ohnacyqb",
+    "value": "7q2hudogiwfd937k3suulx9t",
     "id": 4
 },
 {
     "domain": "waimai.meituan.com",
-    "expirationDate": 1439632021.92782,
+    "expirationDate": 1444021923.046569,
     "hostOnly": true,
     "httpOnly": false,
     "name": "REMOVE_ACT_ALERT",
@@ -65,7 +65,7 @@
 },
 {
     "domain": "waimai.meituan.com",
-    "expirationDate": 3587029281.249185,
+    "expirationDate": 3591419173.310137,
     "hostOnly": true,
     "httpOnly": false,
     "name": "w_ah",
@@ -73,12 +73,12 @@
     "secure": false,
     "session": false,
     "storeId": "0",
-    "value": "\"40.81961799412966,111.70032788068056,%E5%86%85%E5%A4%A7%E4%B8%9C%E9%97%A8\"",
+    "value": "\"39.98636092990637,116.31678778678179,%E5%BE%AE%E8%BD%AF%E4%B8%AD%E5%9B%BD%E7%A0%94%E5%8F%91%E9%9B%86%E5%9B%A2%E6%80%BB%E9%83%A82%E5%8F%B7%E6%A5%BC\"",
     "id": 6
 },
 {
     "domain": "waimai.meituan.com",
-    "expirationDate": 3587029281.249063,
+    "expirationDate": 3591419173.309823,
     "hostOnly": true,
     "httpOnly": false,
     "name": "w_cid",
@@ -86,12 +86,12 @@
     "secure": false,
     "session": false,
     "storeId": "0",
-    "value": "150100",
+    "value": "110100",
     "id": 7
 },
 {
     "domain": "waimai.meituan.com",
-    "expirationDate": 3587029281.249108,
+    "expirationDate": 3591419173.309951,
     "hostOnly": true,
     "httpOnly": false,
     "name": "w_cpy",
@@ -99,12 +99,12 @@
     "secure": false,
     "session": false,
     "storeId": "0",
-    "value": "huhehaote",
+    "value": "beijing",
     "id": 8
 },
 {
     "domain": "waimai.meituan.com",
-    "expirationDate": 3587029281.249085,
+    "expirationDate": 3591419173.309888,
     "hostOnly": true,
     "httpOnly": false,
     "name": "w_cpy_cn",
@@ -112,12 +112,12 @@
     "secure": false,
     "session": false,
     "storeId": "0",
-    "value": "\"%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9\"",
+    "value": "\"%E5%8C%97%E4%BA%AC\"",
     "id": 9
 },
 {
     "domain": "waimai.meituan.com",
-    "expirationDate": 3587029281.249164,
+    "expirationDate": 3591419173.310079,
     "hostOnly": true,
     "httpOnly": false,
     "name": "w_geoid",
@@ -125,12 +125,12 @@
     "secure": false,
     "session": false,
     "storeId": "0",
-    "value": "wrr2jycxw236",
+    "value": "wx4eqz733tgq",
     "id": 10
 },
 {
     "domain": "waimai.meituan.com",
-    "expirationDate": 3587029282.511948,
+    "expirationDate": 3591419180.119261,
     "hostOnly": true,
     "httpOnly": false,
     "name": "w_utmz",
@@ -143,7 +143,7 @@
 },
 {
     "domain": "waimai.meituan.com",
-    "expirationDate": 3587029269.292392,
+    "expirationDate": 3591072869.979548,
     "hostOnly": true,
     "httpOnly": false,
     "name": "w_uuid",
@@ -151,12 +151,12 @@
     "secure": false,
     "session": false,
     "storeId": "0",
-    "value": "74af5083-6652-4444-911c-ef54422d9b40",
+    "value": "3abaf2e0-e258-4e82-8f3e-d1c9226f3663",
     "id": 12
 },
 {
     "domain": "waimai.meituan.com",
-    "expirationDate": 1439547434.249038,
+    "expirationDate": 1443937326.309736,
     "hostOnly": true,
     "httpOnly": false,
     "name": "w_visitid",
@@ -164,12 +164,12 @@
     "secure": false,
     "session": false,
     "storeId": "0",
-    "value": "e594d1aa-4b90-42b5-9fdf-e874819baf31",
+    "value": "711d1827-ef3f-4dbe-bf92-6095ff464bbe",
     "id": 13
 },
 {
     "domain": "waimai.meituan.com",
-    "expirationDate": 3587029281.249143,
+    "expirationDate": 3591419173.310011,
     "hostOnly": true,
     "httpOnly": false,
     "name": "waddrname",
@@ -177,7 +177,7 @@
     "secure": false,
     "session": false,
     "storeId": "0",
-    "value": "\"%E5%86%85%E5%A4%A7%E4%B8%9C%E9%97%A8\"",
+    "value": "\"%E5%BE%AE%E8%BD%AF%E4%B8%AD%E5%9B%BD%E7%A0%94%E5%8F%91%E9%9B%86%E5%9B%A2%E6%80%BB%E9%83%A82%E5%8F%B7%E6%A5%BC\"",
     "id": 14
 }
 ]
