@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 import urllib2
 import json
 
-url = 'http://waimai.meituan.com/home/wrr2jycxw236'
+url = 'http://waimai.meituan.com/home/wx4eqz733tgq'
 
 # 处理cookie
 cookie_file = open('cookie.json')
