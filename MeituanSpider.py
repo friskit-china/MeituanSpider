@@ -24,7 +24,7 @@ html = response.read()
 
 # 解析数据
 print 'analyzing....'
-soup_meituan = BeautifulSoup(html)
+soup_meituan = BeautifulSoup(html, 'html.parser')
 restaurant_list = []
 restaurant_soup_list = soup_meituan.find_all('li', attrs={'class': 'fl rest-li'})
 for restaurant in restaurant_soup_list:
