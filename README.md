@@ -6,12 +6,13 @@
 
 ### 使用方法：
 
-1. 使用Chrome浏览器，安装EditThisCookie插件
+1. 如果是MSRA的小伙伴直接请跳转到第6步啦，只要不失效的话应该就不需要导入cookie了，其他人等继续往下看。
+2. 使用Chrome浏览器，安装EditThisCookie插件
 2. 配置EditThisCookie插件，在左边“选项”栏中设置“选择cookies的导出格式”为JSON
 3. 用Chrome浏览器打开美团外卖网站，选择好地址之后，用EditThisCookie导出Cookies（会自动复制到剪贴板）
 4. 将剪贴板中复制下来的Cookies完整地替换粘贴到cookie.json文件中
 5. 把浏览器地址栏中的地址（如：http://waimai.meituan.com/home/wrr2jycxw236 的格式）替换到MeituanSpider.py文件中上面的url变量上。
-6. 运行程序即可
+6. 运行MeituanSpider.py (python MeituanSpider.py)。
 
 ### 结果说明
 
